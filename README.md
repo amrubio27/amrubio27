@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 Contribution & Stats Overview
+## 📊🔥 Contribution & Stats Overview
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amrubio27&theme=calm&hide_border=true&ring=00bcd4&fire=00bcd4&currStreakLabel=0097a7)
 
