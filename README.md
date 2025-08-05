@@ -2,7 +2,7 @@
 
 📱 **Mobile App Developer** specialized in Android (Kotlin), currently exploring cross-platform development with **Kotlin Multiplatform (KMP)** and some experience with **.NET MAUI**.  
 🎓 I hold a degree in **Cross-Platform Application Development**.  
-🧠 Passionate about STEM, I love experimenting and building small projects that test my skills—from Android apps to tinkering with electronics and 3D printing.  
+🧠 Passionate about STEM, I love experimenting and building small projects that test my skills, from Android apps to tinkering with electronics and 3D printing.  
 🚀 Self-taught and always eager to learn and grow in the ever-evolving tech world.
 
 ---
