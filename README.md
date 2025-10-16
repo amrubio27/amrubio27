@@ -56,7 +56,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrubio27&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrubio27&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amrubio27&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="70%"/>
 </p>
 
 ---
