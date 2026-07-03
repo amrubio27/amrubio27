@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Miguel Alvarez Rubio
-#### 📱 Android Developer | Kotlin Enthusiast | Lifelong Learner
+#### 📱 Android Developer | KMP Developer | Kotlin Enthusiast | Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-álvarez-rubio-7369a92b0" target="_blank">
